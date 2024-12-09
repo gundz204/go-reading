@@ -1,0 +1,3 @@
+[22-Nov-2024 12:26:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yawjcoam/public_html/go-reading /includes/db.php on line 7
+[22-Nov-2024 12:39:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'yawjcoam_goreading'@'localhost' to database 'yawjcoam_go-read' in /home/yawjcoam/public_html/go-reading /includes/db.php on line 7
+[22-Nov-2024 12:40:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'yawjcoam_goreading'@'localhost' to database 'yawjcoam_go-read' in /home/yawjcoam/public_html/go-reading /includes/db.php on line 7

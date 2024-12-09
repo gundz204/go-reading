@@ -1,0 +1,4 @@
+[30-Nov-2024 09:28:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yawjcoam/public_html/admin/register.php:25) in /home/yawjcoam/public_html/admin/register.php on line 26
+[30-Nov-2024 09:43:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yawjcoam/public_html/admin/register.php:25) in /home/yawjcoam/public_html/admin/register.php on line 26
+[02-Dec-2024 14:15:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yawjcoam/public_html/admin/register.php:25) in /home/yawjcoam/public_html/admin/register.php on line 26
+[02-Dec-2024 17:41:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yawjcoam/public_html/admin/register.php:25) in /home/yawjcoam/public_html/admin/register.php on line 26
